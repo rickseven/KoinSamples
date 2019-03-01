@@ -1,4 +1,6 @@
 # KoinSamples
 Koin is a dependency injection framework for kotlin.
 
-This is a simple android project with Koin called Football Club, you can search for a football team and show the results. (e.g. Arsenal, Chelsea, etc.)
+This is a sample android app with Koin implementation.
+
+<img src="https://res.cloudinary.com/www-digisys-id/image/upload/v1551414041/samples/android/KoinSamples.gif" width="300">
